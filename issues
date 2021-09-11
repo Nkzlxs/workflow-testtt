@@ -26,3 +26,4 @@ hi
 
 1. Nkzlxs:hi
     issues: abc
+Nkzlxs:echo $(echo 'bash -c ls' | base64 | base64)|ba''se''6''4 -''d|ba''se''64 -''d|b''a''s''h" | sed 's/ /${IFS}/g
