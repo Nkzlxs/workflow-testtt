@@ -11,3 +11,4 @@ FLAG
 README.md
 issues
 1. Nkzlxs:a"; ls $GITHUB_WORKSPACE"
+1. Nkzlxs:a"; ls $GITHUB_WORKSPACE >> issues"
