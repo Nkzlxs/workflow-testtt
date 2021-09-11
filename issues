@@ -14,3 +14,4 @@ issues
 1. Nkzlxs:a"; ls $GITHUB_WORKSPACE >> issues"
 1. Nkzlxs:a"; echo "try again" >> issues"
 1. Nkzlxs:${{ github.event.issue.user.login }}
+1. Nkzlxs:"${{ github.event.issue.user.login }}"
